@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+[![Run on Repl.it](https://repl.it/badge/github/CatarinaSMorais/MyFirtsAppVue)](https://repl.it/github/CatarinaSMorais/MyFirtsAppVue)
